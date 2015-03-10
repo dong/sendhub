@@ -10,6 +10,7 @@ Run
 3. Send requests to `localhost:8080` with given inputs from pdf file
 
 Run Test Cases (with Nosetests)
+
 1. `chmod +x run_test.sh`
 2. `./run_test.sh`
 
